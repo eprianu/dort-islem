@@ -5,3 +5,6 @@
 ![Dört İşlem](http://www.nenedirvikipedi.com/wp-content/uploads/2018/05/Tam-Say%C4%B1larda-4-%C4%B0%C5%9Flem.jpg)
 <br/>
 [Google'a Git](https://www.google.com)
+
+**Burası Kalın Bir yazı olacak**
+*Burası ise italik bir yazı*
